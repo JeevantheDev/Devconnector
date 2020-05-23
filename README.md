@@ -1,11 +1,11 @@
 # Devconnector
-## This is simple web app using 
+### This is simple web app using 
 # Frontend: 
-## React and Redux.
+## *React and Redux.*
 # Backend: 
-## Node.js, Express
+## *Node.js, Express*
 # Database: 
-## MongoDB
+## *MongoDB*
 
 # Description:
 This is based like SocialMedia platform where different Developers can register and add their profile, carrer and work experience to connect
