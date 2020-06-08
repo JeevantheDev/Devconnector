@@ -1,5 +1,4 @@
 # Devconnector
-### This is simple web app using 
 # Frontend: 
 ## *React and Redux.*
 # Backend: 
